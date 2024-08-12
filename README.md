@@ -1,2 +1,2 @@
-# BROWSER 
-## WEEK - 1
+# BROWSER Module
+## WEEK 1 - Assignment
